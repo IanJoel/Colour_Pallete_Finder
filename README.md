@@ -13,7 +13,7 @@ To run this app locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/streamlit-color-palette.git
+   git clone https://github.com/IanJoel/Colour_Pallete_Finder.git
    cd streamlit-color-palette
    ```
 
