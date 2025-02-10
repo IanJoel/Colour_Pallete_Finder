@@ -20,8 +20,9 @@ To run this app locally, follow these steps:
 2. Create a virtual environment (optional but recommended):
    ```sh
    python -m venv .venv
-   source .venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
    ```
+   **Note:** This app was created using python version 3.10.16
 
 3. Install dependencies:
    ```sh
@@ -35,7 +36,9 @@ To start the Streamlit app, run:
 streamlit run app.py
 ```
 
-This will open the app in your default web browser.
+This will open the app in your default web browser. 
+
+**Note:** The first time you run this app it may take a few extra seconds before it opens, this is due to the fact that the app needs to create a local directory where your uploaded images are stored.
 
 
 ## How It Works
