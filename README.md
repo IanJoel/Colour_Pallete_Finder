@@ -2,6 +2,9 @@
 
 This is a Streamlit web app that extracts a color palette from an uploaded image using machine learning. It is useful for designers who want to find a harmonious color scheme based on an image.
 
+![Demo](assets/AppDemo-3.gif)
+
+
 ## Features
 - Upload an image
 - Extract a dominant color palette using ML
